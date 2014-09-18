@@ -55,27 +55,23 @@ html, body {
 
 .top {
 	width: 100%;
-	background: #777;
+	background: #333;
 	height: 100px;
 }
 
 .sidebar {
-	width: 10%;
-	height: 1000px;
+	width: 15%;
+	height: 600px;
 	background: #999;
 	display: inline-block;
-}
-
-.left {
 	float: left;
 }
 
 .middle {
-	width: 80%;
+	width: 70%;
 	height: 50px;
 	background: #000;
-}
-
-.right {
-	float: right;
+	display: inline-block;
+	float: left;
+	margin-top: 550px;
 }
