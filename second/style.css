@@ -1,0 +1,42 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.column {
+	width: 33.33%;
+	height: 700px;
+	float: left;
+	display: inline-block;
+}
+
+.blue {
+	background-color: #5F9FD1;
+}
+
+.teal {
+	background-color: #74F9FF;
+}
+
+.green {
+	background-color: #B8F191;
+}
+
+.image {
+	background-color: #EE4141;
+	width: 100%;
+	height: 170px;
+	margin-top: 530px;
+	position: relative;
+	vertical-align: middle;
+	text-align: center;
+	line-height: 170px;  
+}
+
+div p {
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 1.5em;
+	color: #FFF;
+}
